@@ -1,27 +1,27 @@
 {
-  "name": "gulpworkflows",
-  "version": "0.0.1",
-  "description": "Display project workflow using gulp.",
-  "repository": {
-    "type": "git",
-    "url": "?.git"
-  },
-  "author": "Ray Villalobos",
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-browserify": "^0.5.0",
-    "gulp-coffee": "^1.4.3",
-    "gulp-compass": "^1.1.9",
-    "gulp-concat": "^2.2.0",
-    "gulp-connect": "^2.0.5",
-    "gulp-if": "^1.1.0",
-    "gulp-imagemin": "^0.5.0",
-    "gulp-jsonminify": "0.0.1",
-    "gulp-minify-html": "^0.1.3",
-    "gulp-uglify": "^0.3.0",
-    "gulp-util": "^3.0.6",
-    "imagemin-pngcrush": "^0.1.0",
-    "jquery": "^2.1.1",
-    "mustache": "^0.8.1"
-  }
+	"name": "gulpworkflows",
+	"version": "0.0.1",
+	"description": "Display project workflow using gulp.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/redroses/gulpworkflows.git"
+	},
+	"author": "Ray Villalobos",
+	"devDependencies": {
+		"gulp": "^3.9.0",
+		"gulp-browserify": "^0.5.0",
+		"gulp-coffee": "^2.3.1",
+		"gulp-compass": "^1.1.9",
+		"gulp-concat": "^2.2.0",
+		"gulp-connect": "^2.0.5",
+		"gulp-if": "^1.1.0",
+		"gulp-imagemin": "^0.5.0",
+		"gulp-jsonminify": "0.0.1",
+		"gulp-minify-html": "^0.1.3",
+		"gulp-uglify": "^0.3.0",
+		"gulp-util": "^3.0.6",
+		"imagemin-pngcrush": "^0.1.0",
+		"jquery": "^2.1.1",
+		"mustache": "^0.8.1"
+	}
 }
