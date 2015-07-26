@@ -1,0 +1,10 @@
+{
+	"name": "gulpworkflows",
+	"version": "0.0.1",
+	"description": "Display project workflow using gulp.",
+	"repository": {
+		"type": "git",
+		"url": "?.git"
+	},
+	"author": "Ray Villalobos"
+}
